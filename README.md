@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekp345" alt="Vivek Palakodeti" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/vivek-palakodeti-a66aaa31a"><h3 align="left">Connect with me:</h3></a>
 <p align="left">
 </p>
 
