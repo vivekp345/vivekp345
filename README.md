@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vivek Palakodeti</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=30&duration=1800&pause=1200&color=008B8B&center=true&vCenter=true&width=700&lines=GATE+2026+(CSE)+Aspirant;Full+Stack+Developer;Java+&+DSA+Enthusiast" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=30&duration=1800&pause=1200&color=008B8B&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+&+DSA+Enthusiast" alt="Typing SVG"/>
 </p>
 
 <div align="center">
